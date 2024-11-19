@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Safiullah+Arian...;Full-Stack+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Safiullah+Arian...;Full-Stack+developer;Certified+Data-Analyst;Nice+to+meet+you!&center=true&size=30&color=fe428e">
   </a>
 </h1>
 
@@ -32,38 +32,22 @@
 <p align="left">
 <a href="https://github.com/safiullah-arian" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Safiullah-arian" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8672438/safiullah-arian" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8672438/safiullah-arian" height="30" width="40" /></a>
-<a href="https://dev.to/safiullaharian" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="safiullah-arian" height="30" width="40" /></a> 
 
-<a href="https://gitlab.com/Safiullah_arian" target="blank">
+<a href=" https://gitlab.com/safiullah-arian" target="blank">
   <img align="center" src="https://img.icons8.com/color/2x/gitlab.png" alt="safiullah-arian" height="30" width="40"/></a>
 
 <a href="https://ahsas.a246@gmail.com" target="blank">
   <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="safiullah-arian" height="30" width="40" /></a>
 
-<a href="https://x.com/safiullaharian" target="blank">
+<a href="https://x.com/safiullaharian1" target="blank">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="safiullah-arian" height="30" width="40" /></a>
-  
-  <a href="https://www.instagram.com/nasratullah_sh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>
-  
-<a href="https://www.facebook.com/nasratullah.shafiq.7" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35" height="35" alt="nasratullah-shafiq" /></a>
 
-<a href="https://t.me/NasratullahShafiq" target="blank">
-<img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="nasratullah-shafiq" /></a>
- 
-<a href="https://api.whatsapp.com/send/?phone=0771275892&text&type=phone_number&app_absent=0" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" height="40"  alt="nasratullah-shafiq" /></a>
 </p>
 
 
 # 💻 Tech Stack:
 <p align="left"> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a>
+
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -77,12 +61,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Sql Server" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://redis.io/" target="_blank" rel="noreferrer">                                                                                                          <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width=40 height=40> </a> 
+
+
+
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="sass" width="40" height="40"/> </a>  
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
