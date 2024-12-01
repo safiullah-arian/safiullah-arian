@@ -23,11 +23,6 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004678578540) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/safiullah_arian/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/safiullaharian) 
-
-<p align="left">
-<a href="https://github.com/safiullah-arian" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Safiullah-arian" height="30" width="40" /></a>
-
 <a href=" https://gitlab.com/safiullah-arian" target="blank">
   <img align="center" src="https://img.icons8.com/color/2x/gitlab.png" alt="safiullah-arian" height="30" width="40"/></a>
 
@@ -46,7 +41,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=safiullah-arian&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=safiullah-arian&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=safiullah-arian&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=safiullah-arian&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safiullah-Arian&theme=tokyonight&langs_count=40&hide_border=true&include_all_commits=true&count_private&layout=pie)
