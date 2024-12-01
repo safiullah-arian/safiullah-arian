@@ -40,6 +40,10 @@ Hi there! I'm **Safiullah Arian**, a passionate **Full-Stack Developer** and **C
 [![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/safiullah-arian)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsas.a246@gmail.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/safiullaharian1)  
+<a href="https://x.com/safiullaharian1" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30">
+</a>
+
 
 </div>
 
