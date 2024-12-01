@@ -9,14 +9,7 @@
 </div>
 
 # 💫 About Me:
-💡 I’m Safiullah Arian, a Software Engineer.<br>
-🔭 I’m currently working on Procurement Management Information System<br>
-👀 I’m interested in growing as a Data Scientist .<br>
-🌱 I’m currently learning the MERN Stack.<br>
-💬 Ask me about  Python Django, Odoo, ERP, React JS, Node JS, Next JS<br>
-📫 You can contact me at ahsas.a246@gmail.com<br>
-💞️ I’m looking to collaborate on ...<br>
-⚡ Fun fact: I am a passionate full-stack developer.<br>
+💡 I’m Safiullah Arian, a Software Engineer.<br>🔭 I’m currently working on (ERP) Procurement Management Information System<br>👀 I’m interested in growing as a Data Scientist.<br>🌱 I’m currently learning Big Data and Data science.<br>💬 Ask me about Python Django, Odoo, ERP, React JS, and Javascript.<br>📫 You can contact me at ahsas.a246@gmail.com<br>💞️ I’m looking to collaborate on new tasks and challenges to solve<br>⚡ Fun fact: I am a passionate full-stack developer and business logic of Logistic and Procurement ERP work  Machine Learning and AI.
 <br/>
 <br/>
 <div align="center">
@@ -109,10 +102,11 @@
 ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Safiullah-Arian&theme=tokyonight)
 <a href="https://github.com/Safiullah-Arian"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Safiullah-Arian&theme=tokyonight&utcOffset=4"/>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=safiullah-arian&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Safiullah-Arian&show_icons=true&theme=radical&no-frame=true&no-bg=false&margin-w=8)
-
+![](https://github-profile-trophy.vercel.app/?username=safiullah-arian&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
@@ -140,14 +134,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=safiullah-arian&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=safiullah-arian&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=safiullah-arian&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=safiullah-arian&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=safiullah-arian&icon=0&color=0)](https://visitcount.itsvg.in)
