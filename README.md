@@ -21,16 +21,6 @@ Hi there! I'm **Safiullah Arian**, a passionate **Full-Stack Developer** and **C
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004678578540) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/safiullah_arian) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safiullaharian) 
-[![GitLab](https://img.icons8.com/color/2x/gitlab.png)](https://gitlab.com/safiullah-arian)
-[![Gmail](https://img.icons8.com/color/2x/gmail.png)](mailto:ahsas.a246@gmail.com)
-[![Twitter](https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg)](https://x.com/safiullaharian1)
-
----
-
-## 🌐 Socials:
 
 <div align="center">
 
