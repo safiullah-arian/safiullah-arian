@@ -12,7 +12,7 @@
 
 ## 💡 About Me:
 Hi there! I'm **Safiullah Arian**, a passionate **Full-Stack Developer** and **Certified Data Analyst** with a knack for solving complex problems.  
-- 🔭 Currently working on: **(ERP) Procurement Management Information System**.  
+- 🔭 Currently working on: **Data Scientist & Web Developer | Odoo ERP, Machine Learning & AI Solutions**.  
 - 🌱 Exploring: **Big Data** and **Data Science**.  
 - 💬 Ask me about: **Python Django, Odoo, React JS**, and more.  
 - 📫 Reach out at: [Email](mailto:ahsas.a246@gmail.com).  
